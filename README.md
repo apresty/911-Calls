@@ -15,8 +15,8 @@ Project is created with:
 To run this project, install it locally :
 You will also need to download CSV files and upload path file
 ```
-$ pip install numpy
-$ pip install matplotlib
-$ pip install pandas
-$ pip install seaborn
+$ !pip install numpy
+$ !pip install matplotlib
+$ !pip install pandas
+$ !pip install seaborn
 ```
